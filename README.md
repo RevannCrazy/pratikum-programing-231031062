@@ -4,4 +4,4 @@
 <h1> NIM   : 231031062 </h1>
 <h1> Prodi : Sistem informasi B </h1>
 
-*pratikum 1 : Pengenalan Variabel `pratikum-1`
+* pratikum 1 : Pengenalan Variabel `pratikum-1`
