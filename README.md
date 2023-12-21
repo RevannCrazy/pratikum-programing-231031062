@@ -15,7 +15,7 @@
 * pratikum 9 : Program tebak angka `pratikum-b9.py`
 * pratikum 10: Program menghitung luas bangun ruang `pratikum-b10.py`
 * pratikum 11: Fibonacci `231031062-MUHREVAN-pratikum-b11.py`
-* pratikum 12: 
+* pratikum 12: 231031062-MuhRevan-Rangkuman12b.pdf
 * latihan if `231031062-MUH.REVAN-Latihan1.py`
 * latihan elif `231031062-MUH.REVAN-Latihan2.py`
 * latihan if dengan input `231031062-MUH.REVAN-Latihan3.py`
@@ -23,4 +23,5 @@
 * Tebak nilai ganjil atau genap  `231031062-Muh.Revan-tugas1-10-b.py`
 * Selisih waktu `231031062-Muh.Revan-tugas21-10-b(Selisih waktu).py`
 * Penjumlahan waktu `231031062-Muh.Revan-tugas22-10-b.py`
-* 
+* Index upper dan lower `TugasPratikum-4.py`
+* UTS `UTS-231031062`
